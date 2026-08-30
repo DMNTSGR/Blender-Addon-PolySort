@@ -17,3 +17,4 @@ PolySort is a lightweight optimization add-on for Blender designed to streamline
 * Open the UI panel in the 3D Viewport sidebar (or specify your UI location).
 * Click **Refresh**.
 
+![Ekrano nuotrauka](Screenshot%202026-08-30%20130651.png)
