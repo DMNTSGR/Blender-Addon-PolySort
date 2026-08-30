@@ -15,5 +15,5 @@ PolySort is a lightweight optimization add-on for Blender designed to streamline
 
 ## 🛠️ Usage
 * Open the UI panel in the 3D Viewport sidebar (or specify your UI location).
-* Click **Sort by Face Count**.
+* Click **Refresh**.
 
