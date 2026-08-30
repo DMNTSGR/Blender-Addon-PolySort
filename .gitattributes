@@ -2,4 +2,4 @@ README.md export-ignore
 *.png export-ignore
 *.jpg export-ignore
 *.jpeg export-ignore
-.gitattributes export-ignore
+/.gitattributes export-ignore
