@@ -1,4 +1,4 @@
-PolySort
+# PolySort
 
 PolySort is a lightweight optimization add-on for Blender designed to streamline scene management. It automatically analyzes scene geometry and sorts 3D models based on their face count in descending order, placing the heaviest meshes at the top of the hierarchy.
 
